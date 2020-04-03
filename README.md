@@ -1,2 +1,2 @@
-# krakenjriot-gmail.com
-get_data_cloud
+# Get Sensor Data from Cloud
+
