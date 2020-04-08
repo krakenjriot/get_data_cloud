@@ -30,3 +30,8 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Click Clone**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/10.JPG" width=800 />  
+ 
+ 
+**Click Show in Explorer**  
+  
+<img src="https://github.com/krakenjriot/images/blob/master/11.JPG" width=800 />  
