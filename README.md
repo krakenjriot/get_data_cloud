@@ -36,6 +36,7 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
   
 <img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 />  
 
-**Right click and edit**  ( open it on any text editor / notepad would be fine / mine I used notepadd++ )
+**Right click and edit**  
+***( open it on any text editor / notepad would be fine / mine I used notepadd++ )***
   
 <img src="https://github.com/krakenjriot/images/blob/master/13.JPG" width=800 />  
