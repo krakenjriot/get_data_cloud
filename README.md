@@ -32,7 +32,7 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
   
 <img src="https://github.com/krakenjriot/images/blob/master/11.JPG" width=800 />  
 
-**Update your CiD and Site Code**  
+**Verify files (make sure you have all the shown files)**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 />  
 
@@ -40,3 +40,7 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 ***( open it on any text editor / notepad would be fine / mine I used notepadd++ )***
   
 <img src="https://github.com/krakenjriot/images/blob/master/13.jpg" width=800 />  
+  
+**Update your CiD and Site Code**  
+  
+<img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 /> 
