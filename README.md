@@ -11,4 +11,4 @@ This page (getdata.php) will download, insert the sensor data to your local data
 
 
 
-![](images/step1.jpeg)
+![](https://github.com/krakenjriot/images/blob/master/1.JPG)
