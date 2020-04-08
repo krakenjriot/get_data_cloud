@@ -101,11 +101,14 @@ and register and register your new arduino board and go back <a href="https://gi
 
 **RUNNING THE DATA DOWNLOADER PAGE**
 
-**Open your browser (preferably Google Chrome) copy paste this http://localhost/getdata/getdata.php **
+**Open your browser (preferably Google Chrome) copy paste this or click this link http://localhost/getdata/getdata.php **
   
 you would know if it is successfull, there should be no error message same as below
   
-<img src="https://github.com/krakenjriot/images/blob/master/getdata/17.JPG" width=800 />     
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/17.JPG" width=800 />    
+
+
+*THE END* 
 
 
 
