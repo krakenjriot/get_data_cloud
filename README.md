@@ -40,11 +40,11 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 *Noted! we need to update the CiD and Site Code with yours in the getdata.exec.php file first!*
 
 **Right click and edit**  
-***( open it on any text editor / notepad would be fine / mine I used notepadd++ )***
+**( open it on any text editor / notepad would be fine / mine I used notepadd++ )**
   
 <img src="https://github.com/krakenjriot/images/blob/master/13.jpg" width=800 />  
   
 **Update your CiD and Site Code**  
-**Right click and edit**  
+**Right click and edit "getdata.exec.php"**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
