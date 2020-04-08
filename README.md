@@ -77,3 +77,9 @@ and register and register your new arduino board and go back <a href="https://gi
 **Create a new database, with a name of "mydb" (make sure you create with that name)**
   
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/20.JPG" width=800 /> 
+
+**PREPARING THE TABLE**
+
+**Select the database you created (mydb) and then click the Import button on the top middle of your screen**
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/21.JPG" width=800 /> 
