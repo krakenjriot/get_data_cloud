@@ -8,3 +8,18 @@ Step 6 edit the file "getdata.exec.php" and update the cid and sitecode
 Step 7 open getdata.php in your browser http://localhost/folder_name_you_created/getdata.php
 
 This page (getdata.php) will download, insert the sensor data to your local database on regular interval of 10 seconds
+
+
+
+<!DOCTYPE html>
+<html>
+<head>
+<title>Page Title</title>
+</head>
+<body>
+
+<h1>This is a Heading</h1>
+<p>This is a paragraph.</p>
+
+</body>
+</html>
