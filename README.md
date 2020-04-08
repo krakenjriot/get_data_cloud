@@ -39,4 +39,4 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Right click and edit**  
 ***( open it on any text editor / notepad would be fine / mine I used notepadd++ )***
   
-<img src="https://github.com/krakenjriot/images/blob/master/13.JPG" width=800 />  
+<img src="https://github.com/krakenjriot/images/blob/master/13.jpg" width=800 />  
