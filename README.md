@@ -65,7 +65,7 @@ if you don't have the application yet in your mobile, please download it from *G
  <img src="https://github.com/krakenjriot/images/blob/master/getdata/16.jpg" width=800 /> 
   
 **you can go ahead and open it on the browser**  
-* <a href="http://localhost/phpmyadmin/">PHPMyAdmin</a>
+* <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a>
 
   
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/14.JPG" width=800 /> 
