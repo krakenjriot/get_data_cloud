@@ -13,4 +13,4 @@ This page (getdata.php) will download, insert the sensor data to your local data
 
 ![](https://github.com/krakenjriot/images/blob/master/1.JPG|width=150)
 
-<img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=600></img>
+<img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800></img>
