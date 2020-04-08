@@ -1,6 +1,6 @@
 # Get Data from Cloud
 
-Pre-requisites
+## Setup and configurations
 
 Download and Install the following Applications to your desktop
 * <a href="https://atom.io/">ATOM Text Editor</a>
