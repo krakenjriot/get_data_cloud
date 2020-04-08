@@ -49,7 +49,12 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Right click and edit "getdata.exec.php"**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
-
+  
+**Get your CiD and Site Code from the KJR Application**
+if you don't have the application yet in your mobile, please download it from *Google App Store* at 
+<a href="https://play.google.com/store/apps/details?id=com.internetofthingsbuilder.switchmaster.boaz">KJR IoT App</a> and register and register your new arduino board.
+  
+<img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
 
 **NEXT STEPS IS TO PREPARE THE DATABASE THAT WILL RECIEVE YOUR CLOUD DATA**
   
