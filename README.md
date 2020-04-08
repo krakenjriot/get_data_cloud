@@ -11,15 +11,4 @@ This page (getdata.php) will download, insert the sensor data to your local data
 
 
 
-<!DOCTYPE html>
-<html>
-<head>
-<title>Page Title</title>
-</head>
-<body>
-
-<h1>This is a Heading</h1>
-<p>This is a paragraph.</p>
-
-</body>
-</html>
+![](images/step1.jpeg)
