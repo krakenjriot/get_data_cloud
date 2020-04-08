@@ -20,7 +20,7 @@ Once completed, proceed on below steps
   
 **Click open URL**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/getdata/9.JPG?raw=true" width=800 />  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/9.JPG" width=800 />  
  
 Github Desktop application will open at this moment, wait...  
 make sure the LOCAL PATH is set to c:\xampp\htdocs\  
@@ -43,7 +43,7 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Right click and edit**  
 **( open it on any text editor / notepad would be fine / mine I used notepadd++ )**
   
-<img src="https://github.com/krakenjriot/images/blob/master/getdata/13.jpg" width=800 />  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/13.JPG" width=800 />  
   
 **Update your CiD and Site Code**  
 **Right click and edit "getdata.exec.php"**  
