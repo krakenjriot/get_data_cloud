@@ -61,7 +61,7 @@ if you don't have the application yet in your mobile, please download it from *G
 
 **NEXT STEPS IS TO PREPARE THE DATABASE THAT WILL RECIEVE YOUR CLOUD DATA**
   
- Open make sure the XAMPP is running and PHP and Mysql are started
+ Open XAMPP and make sure the PHP and Mysql are started and running green
  <img src="https://github.com/krakenjriot/images/blob/master/16.jpg" width=800 /> 
   
 **you can go ahead and open it on the browser**  
