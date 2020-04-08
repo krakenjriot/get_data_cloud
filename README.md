@@ -47,4 +47,4 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Update your CiD and Site Code**  
 **Right click and edit**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 /> 
+<img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
