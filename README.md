@@ -65,7 +65,7 @@ and register and register your new arduino board and go back <a href="https://gi
  Open XAMPP and make sure the PHP and MySQL are started and running green
  <img src="https://github.com/krakenjriot/images/blob/master/getdata/16.jpg" width=800 /> 
   
-**you can go ahead and open it on the browser**  
+**Open http://localhost/phpmyadmin/ (PHPMyAdmin) on the browser**  
 * <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a>
 
   
