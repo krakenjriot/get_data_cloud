@@ -20,7 +20,7 @@ Once completed, proceed on below steps
   
 **Click open URL**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/9.JPG" width=800 />  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/9.JPG?raw=true" width=800 />  
  
 Github Desktop application will open at this moment, wait...  
 make sure the LOCAL PATH is set to c:\xampp\htdocs\  
