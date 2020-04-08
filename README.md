@@ -55,7 +55,8 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/15.jpg" width=800 /> 
   
 if you don't have the application yet in your mobile, please download it from *Google App Store* at 
-<a href="https://play.google.com/store/apps/details?id=com.internetofthingsbuilder.switchmaster.boaz">KJR IoT App</a> and register and register your new arduino board.
+<a href="https://play.google.com/store/apps/details?id=com.internetofthingsbuilder.switchmaster.boaz">KJR IoT App</a> 
+and register and register your new arduino board and go back <a href="https://github.com/krakenjriot/getdata">here</a>
   
 
 
