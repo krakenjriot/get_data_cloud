@@ -37,6 +37,7 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 <img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 />  
 
 **before running the data downloader scheduler page**
+  
 *Noted! we need to update the CiD and Site Code with yours in the getdata.exec.php file first!*
 
 **Right click and edit**  
