@@ -83,3 +83,32 @@ and register and register your new arduino board and go back <a href="https://gi
 **Select the database you created (mydb) and then click the Import button on the top middle of your screen**
   
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/21.JPG" width=800 /> 
+
+
+**browse the downloaded table file and initiate import**
+ 
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/21.JPG" width=800 /> 
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/22.JPG" width=800 /> 
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/23.JPG" width=800 /> 
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/24.JPG" width=800 /> 
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/25.JPG" width=800 /> 
+
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/26.JPG" width=800 /> 
+
+**RUNNING THE DATA DOWNLOADER PAGE**
+
+**Open your browser (preferably Google Chrome) copy paste this http://localhost/getdata/getdata.php **
+  
+you would know if it is successfull, there should be no error message same as below
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/17.JPG" width=800 />     
+
+
+
+  
+  
+  
