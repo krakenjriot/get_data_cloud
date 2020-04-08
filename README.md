@@ -65,7 +65,7 @@ if you don't have the application yet in your mobile, please download it from *G
  <img src="https://github.com/krakenjriot/images/blob/master/16.jpg" width=800 /> 
   
 **you can go ahead and open it on the browser**  
-* <a href="https://desktop.github.com/">Github Desktop</a>
+* <a href="http://localhost/phpmyadmin/">PHPMyAdmin</a>
 
   
 <img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
