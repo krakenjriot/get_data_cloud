@@ -10,10 +10,5 @@ Step 7 open getdata.php in your browser http://localhost/folder_name_you_created
 This page (getdata.php) will download, insert the sensor data to your local database on regular interval of 10 seconds
 
 
+<img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800 />
 
-![](https://github.com/krakenjriot/images/blob/master/1.JPG|width=150)
-
-<img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800></img>
-
-![test image size](https://github.com/krakenjriot/images/blob/master/1.JPG){:class="img-responsive"}
-![test image size](https://github.com/krakenjriot/images/blob/master/1.JPG){:width=600"}
