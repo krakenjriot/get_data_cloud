@@ -58,6 +58,12 @@ if you don't have the application yet in your mobile, please download it from *G
 <a href="https://play.google.com/store/apps/details?id=com.internetofthingsbuilder.switchmaster.boaz">KJR IoT App</a> 
 and register and register your new arduino board and go back <a href="https://github.com/krakenjriot/getdata">here</a>
   
+  
+**Create a new database, with a name of "mydb" (make sure you create with that name)**
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/20.JPG" width=800 /> 
+
+  
 
 
 **NEXT STEPS IS TO PREPARE THE DATABASE THAT WILL RECIEVE YOUR CLOUD DATA**
