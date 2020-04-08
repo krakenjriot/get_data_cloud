@@ -23,7 +23,7 @@ Once completed, proceed on below steps
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/9.JPG" width=800 />  
  
 Github Desktop application will open at this moment, wait...  
-make sure the LOCAL PATH is set to c:\xampp\htdocs\  
+make sure the LOCAL PATH is set to c:\xampp\htdocs\getdata  
 **Click Clone**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/10.JPG" width=800 />  
