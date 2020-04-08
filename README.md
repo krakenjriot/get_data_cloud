@@ -12,9 +12,9 @@ This page (getdata.php) will download, insert the sensor data to your local data
 
 Requirement
 Download and Install the following 
-- [x] <a href="https://atom.io/">ATOM Text Editor</a>
-- [x] <a href="https://www.apachefriends.org/index.html">XAMPP</a>
-- [x] <a href="https://desktop.github.com/">Github Desktop</a>
+* <a href="https://atom.io/">ATOM Text Editor</a>
+* <a href="https://www.apachefriends.org/index.html">XAMPP</a>
+* <a href="https://desktop.github.com/">Github Desktop</a>
 
 
 <img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800 />
