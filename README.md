@@ -59,10 +59,6 @@ if you don't have the application yet in your mobile, please download it from *G
 and register and register your new arduino board and go back <a href="https://github.com/krakenjriot/getdata">here</a>
   
   
-**Create a new database, with a name of "mydb" (make sure you create with that name)**
-  
-<img src="https://github.com/krakenjriot/images/blob/master/getdata/20.JPG" width=800 /> 
-
   
 
 
@@ -76,3 +72,8 @@ and register and register your new arduino board and go back <a href="https://gi
 
   
 <img src="https://github.com/krakenjriot/images/blob/master/getdata/19.JPG" width=800 /> 
+
+
+**Create a new database, with a name of "mydb" (make sure you create with that name)**
+  
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/20.JPG" width=800 /> 
