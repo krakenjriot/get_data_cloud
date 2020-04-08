@@ -69,4 +69,4 @@ and register and register your new arduino board and go back <a href="https://gi
 * <a href="http://localhost/phpmyadmin/">http://localhost/phpmyadmin/</a>
 
   
-<img src="https://github.com/krakenjriot/images/blob/master/getdata/14.JPG" width=800 /> 
+<img src="https://github.com/krakenjriot/images/blob/master/getdata/19.JPG" width=800 /> 
