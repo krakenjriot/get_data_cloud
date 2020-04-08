@@ -26,15 +26,15 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 
 **Click Clone**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/10.JPG" width=800 />  
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/10.JPG" width=800 />  
 
 **Click Show in Explorer**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/11.JPG" width=800 />  
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/11.JPG" width=800 />  
 
 **Verify files (make sure you have all the shown files)**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/12.JPG" width=800 />  
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/12.JPG" width=800 />  
 
 **before running the data downloader scheduler page**
   
@@ -43,16 +43,16 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Right click and edit**  
 **( open it on any text editor / notepad would be fine / mine I used notepadd++ )**
   
-<img src="https://github.com/krakenjriot/images/blob/master/13.jpg" width=800 />  
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/13.jpg" width=800 />  
   
 **Update your CiD and Site Code**  
 **Right click and edit "getdata.exec.php"**  
   
-<img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/14.JPG" width=800 /> 
   
 **Get your CiD and Site Code from the KJR Application**
   
-<img src="https://github.com/krakenjriot/images/blob/master/15.jpg" width=800 /> 
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/15.jpg" width=800 /> 
   
 if you don't have the application yet in your mobile, please download it from *Google App Store* at 
 <a href="https://play.google.com/store/apps/details?id=com.internetofthingsbuilder.switchmaster.boaz">KJR IoT App</a> and register and register your new arduino board.
@@ -61,11 +61,11 @@ if you don't have the application yet in your mobile, please download it from *G
 
 **NEXT STEPS IS TO PREPARE THE DATABASE THAT WILL RECIEVE YOUR CLOUD DATA**
   
- Open XAMPP and make sure the PHP and Mysql are started and running green
- <img src="https://github.com/krakenjriot/images/blob/master/16.jpg" width=800 /> 
+ Open XAMPP and make sure the PHP and MySQL are started and running green
+ <img src="https://github.com/krakenjriot/images/getdata/blob/master/16.jpg" width=800 /> 
   
 **you can go ahead and open it on the browser**  
 * <a href="http://localhost/phpmyadmin/">PHPMyAdmin</a>
 
   
-<img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
+<img src="https://github.com/krakenjriot/images/getdata/blob/master/14.JPG" width=800 /> 
