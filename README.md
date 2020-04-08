@@ -49,3 +49,13 @@ make sure the LOCAL PATH is set to c:\xampp\htdocs\
 **Right click and edit "getdata.exec.php"**  
   
 <img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
+
+
+**NEXT STEPS IS TO PREPARE THE DATABASE THAT WILL RECIEVE YOUR CLOUD DATA**
+  
+**After updating the file**  
+**you can go ahead and open it on the browser**  
+* <a href="https://desktop.github.com/">Github Desktop</a>
+
+  
+<img src="https://github.com/krakenjriot/images/blob/master/14.JPG" width=800 /> 
