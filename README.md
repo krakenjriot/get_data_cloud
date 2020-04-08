@@ -9,6 +9,6 @@ Download and Install the following Applications to your desktop
 
 Once completed, proceed on below steps 
 
-
-**Step 1**<img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800 />
+**Clone the repository**
+**Step 1**<img src="https://github.com/krakenjriot/images/blob/master/7.JPG" width=800 />
 
