@@ -10,5 +10,12 @@ Step 7 open getdata.php in your browser http://localhost/folder_name_you_created
 This page (getdata.php) will download, insert the sensor data to your local database on regular interval of 10 seconds
 
 
+Requirement
+Download and Install the following 
+<a href="https://atom.io/">ATOM Text Editor</a>
+<a href="https://www.apachefriends.org/index.html">XAMPP</a>
+<a href="https://desktop.github.com/">Github Desktop</a>
+
+
 <img src="https://github.com/krakenjriot/images/blob/master/1.JPG" width=800 />
 
