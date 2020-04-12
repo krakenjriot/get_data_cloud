@@ -1,7 +1,7 @@
 <?php
 
 $cid = "3014915255255247255247255255255255255";
-$sitecode = "7409";
+$sitecode = "9200";
 
 $url = "https://internetofthingsbuilder.com/krakenjr/?p=1&cid=$cid&sitecode=$sitecode";
 //
