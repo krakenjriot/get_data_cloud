@@ -2,10 +2,10 @@
 
 $cid = "3014915255255247255247255255255255255";
 $sitecode = "9200";
-
 $url = "https://internetofthingsbuilder.com/krakenjr/?p=1&cid=$cid&sitecode=$sitecode";
 //
 echo $url."</br>";
+
 ////call api
 $myJson = file_get_contents($url);
 $myJson = utf8_encode($myJson);
@@ -44,9 +44,7 @@ sensor9,
 sensor10,
 sensor11,
 sensor12,
-sensor13,
-sensor14,
-sensor15,
+
 hum,
 temp,
 dtime)
@@ -63,9 +61,6 @@ VALUES (
 '".$myObj['sensor10']."',
 '".$myObj['sensor11']."',
 '".$myObj['sensor12']."',
-'".$myObj['sensor13']."',
-'".$myObj['sensor14']."',
-'".$myObj['sensor15']."',
 '".$myObj['hum']."',
 '".$myObj['temp']."',
 '".$myObj['dtime']."')";

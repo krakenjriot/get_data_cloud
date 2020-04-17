@@ -7,8 +7,8 @@
 				var refresh = function () {
 				$('#getdata').load('getdata.exec.php');
 				 }
-				 setInterval(refresh, 1 * 60 * 1000); //minute interval
-				 //setInterval(refresh, 3000); //minute interval
+				 //setInterval(refresh, 1 * 60 * 1000); //minute interval				 
+				 setInterval(refresh, 3000); //minute interval				 
 				 refresh();
 			});
 		</script>
